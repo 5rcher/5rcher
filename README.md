@@ -44,7 +44,7 @@
 
 <ul>
 	<li style="list-style-type:disc"><span style="font-size:14px"><span style="font-family:Arial"><span style="color:#000000"><strong>active position: </strong>no (server shut down)</span></span></span></li>
-	<li style="list-style-type:disc"><span style="font-size:14px"><span style="font-family:Arial"><span style="color:#000000"><strong>rank: </strong>Owner</span></span></span></li>
+	<li style="list-style-type:disc"><span style="font-size:14px"><span style="font-family:Arial"><span style="color:#000000"><strong>rank: </strong>owner</span></span></span></li>
 	<li style="list-style-type:disc"><span style="font-size:14px"><span style="font-family:Arial"><span style="color:#000000"><strong>hen: </strong>23/01/2022</span></span></span>&nbsp;</li>
 </ul>
 
