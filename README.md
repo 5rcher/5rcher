@@ -7,6 +7,6 @@ My name is Krystian, and I am a developer from the UK who is currently studying 
 
 ## Language Usage
 
-<img width=15 height=15 alt="MC" src="/assets/mclaunchericon.png"> Minecraft Modding | Java & Javascript  
-<img width=15 height=15 src="https://skillicons.dev/icons?i=discord"> Discord Bot Development | Typescript/Javascript & Python
+<img width=15 height=15 alt="MC" src="/assets/mclaunchericon.png"> Minecraft Development | Skript
+<img width=15 height=15 src="https://skillicons.dev/icons?i=discord"> Discord Bot Development | Python
 
