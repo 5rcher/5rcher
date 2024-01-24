@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Krystian, and I am a developer from the UK who is currently studying Computer Science. I run a studio called Auitenti which makes games on different platforms such as Minecraft, Roblox and Fortnite: Creative, however we also help creators and brands by providing them the appropriate resources to grow.
+My name is Krystian, and I am a developer from the UK who is currently studying Computer Science.
 
 ## Language Usage
 
